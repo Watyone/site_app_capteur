@@ -60,7 +60,7 @@
   
   .screenshot img {
     display: block;
-    max-width: 70%;
+    max-width: 50%;
     height: auto;
     border-radius: 12px;
     margin: 20px auto;
